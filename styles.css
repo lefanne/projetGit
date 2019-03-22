@@ -1,0 +1,8 @@
+.nom {
+    border :solid 2px blue;
+    border-radius: 5px;
+}
+.btn {
+    border : solid 2px red;
+    background-color: grey;
+}
