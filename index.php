@@ -27,7 +27,7 @@ if(isset($_POST["login"])){
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>NOUVELLE MODIF</title>
+    <title>re modif</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
